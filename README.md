@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm **oSerenity** — a passionate developer, creative pro
 ## 🌍 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/oserenity)
-[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/oSerenity_)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/OSerenity07)
 [![Personal Website](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=fff)](https://oser.me)
 
 ---
